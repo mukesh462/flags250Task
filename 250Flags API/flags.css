@@ -1,0 +1,33 @@
+.container{
+    background-color:whitesmoke;
+    width: 215px;
+    height: 343px;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: 'Dongle', sans-serif;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-bottom: 10px;
+    display: inline-block;
+padding:30px;
+border:1px solid grey;
+transition: 0.1s;
+
+}
+.container:hover{
+    transform: scale(1.1);
+}
+.img{
+width: 215px;
+height: 130px;
+
+
+}
+.text{
+    color: black;
+    font-size: x-large;
+    padding: 5px;
+    margin-top: -26px;
+
+}
+span{
+    display: block;
+}
